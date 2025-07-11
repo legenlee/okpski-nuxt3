@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Midwest AK Alpha Railed Dust Cover",
+    "price": 339000,
+    "availability": "out-of-stock"
+  },
+  {
+    "name": "ZenitCo B-33 AK Railed Dust Cover",
+    "price": 149000,
+    "availability": "in-stock"
+  },
+  {
+    "name": "ZenitCo B-10L AK Lower Handguard",
+    "price": 139000,
+    "availability": "out-of-stock"
+  },
+  {
+    "name": "Midwest AK M-LOK Alpha Handguard Set",
+    "price": 149000,
+    "availability": "in-stock"
+  },
+  {
+    "name": "ZenitCo B-10U AK Lower Handguard",
+    "price": 139000,
+    "availability": "in-stock"
+  },
+  {
+    "name": "ZenitCo B-10M AK Lower Handguard",
+    "price": 149000,
+    "availability": "in-stock"
+  },
+  {
+    "name": "ZenitCo PT-1 AK Stock",
+    "price": 178000,
+    "availability": "in-stock"
+  },
+  {
+    "name": "Midwest Industries AK Alpha Stock",
+    "price": 198000,
+    "availability": "in-stock"
+  }
+]
