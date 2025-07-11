@@ -5,7 +5,12 @@ import navigationMenuItems from "~/assets/json/navigationMenuItems.json";
 <template>
   <div>
     <UContainer class="flex justify-end my-1 gap-4">
-      <UButton icon="i-lucide-shopping-cart" variant="link" color="neutral" size="xl" />
+      <UButton
+        icon="i-lucide-shopping-cart"
+        variant="link"
+        color="neutral"
+        size="xl"
+      />
     </UContainer>
 
     <USeparator />
@@ -16,9 +21,18 @@ import navigationMenuItems from "~/assets/json/navigationMenuItems.json";
       </div>
 
       <div class="w-3/4 flex items-center">
-        <UInput class="w-full" size="xl" placeholder="TWS Dog Leg Railed Dust Cover ...">
+        <UInput
+          class="w-full"
+          size="xl"
+          placeholder="TWS Dog Leg Railed Dust Cover ..."
+        >
           <template #trailing>
-            <UButton color="neutral" variant="link" size="xl" icon="i-lucide-search" />
+            <UButton
+              color="neutral"
+              variant="link"
+              size="xl"
+              icon="i-lucide-search"
+            />
           </template>
         </UInput>
       </div>
